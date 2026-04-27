@@ -9,6 +9,11 @@ Rio de Janeiro, Brazil
 
 ## Featured Projects
 
+### [Jetstock — PRODUCTS STOCK CONTROL](https://github.com/jv-ramos/jetstock)
+
+Technical challenge focused on designing a system to manage a supply chain and integrate with jetpay.</br>
+PHP 8.2 | Laravel 12 | PostgreSQL 16 | Sanctum | Docker
+
 ### [Jetpay — API REST MULTI-GATEWAY](https://github.com/jv-ramos/jetpay)
 
 Technical challenge focused on designing a RESTful API to integrate with a database and two payment gateways.</br>
